@@ -25,6 +25,11 @@
     font-size: 22px;
 }
 
+.log {
+    max-height: 50vh;
+    overflow-y: scroll;
+}
+
 .log ul {
     list-style: none;
     font-weight: bold;
